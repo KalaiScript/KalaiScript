@@ -221,10 +221,6 @@ $ cat developer_profile.json
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-</p>
-
 <!-- 6 & 7. GitHub Stats & Streak -->
 ## 📊 GitHub Analytics
 
@@ -272,11 +268,6 @@ $ cat developer_profile.json
 </table>
 
 <br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-</p>
-
 <!-- 9. Contribution Graph -->
 ## 📈 Contribution Graph
 
@@ -377,20 +368,6 @@ graph TD
   </a>
 </p>
 
----
-
-
-
-<!-- 20. WakaTime -->
-## ⏱️ Weekly Coding Activity
-
-<p align="center">
-  <!-- Dynamic WakaTime Detail Chart (Bar graph) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KalaiScript&theme=tokyonight&layout=default&hide_border=false" alt="WakaTime Detailed Coding Stats" width="80%" />
-  </a>
-</p>
-
 
 <!-- 23. Contact -->
 ## ✉️ Get in Touch
@@ -413,4 +390,8 @@ graph TD
 <!-- 24. Footer (Capsule Render / Wave Banner) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=Keep%20Coding%20&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </p>
