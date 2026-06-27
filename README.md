@@ -232,18 +232,7 @@ $ cat developer_profile.json
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalaiScript&theme=tokyonight&hide_border=false" alt="KalaiScript Activity Graph" width="100%" />
 </p>
 
----
 
-<!-- 10. GitHub Trophy -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KalaiScript&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 <!-- 11. Contribution Snake -->
 ## 🐍 Contribution Snake
@@ -301,14 +290,6 @@ $ cat developer_profile.json
 
 ---
 
-<!-- 15. Current Learning -->
-## 📚 Current Learning
-
-- ⚡ **gRPC & Protobuf** deep diving for microservice communications.
-- 📦 **Kubernetes GitOps** models using ArgoCD and Helm.
-- 📬 **Event-Driven Architectures** utilizing Apache Kafka & RabbitMQ.
-
----
 
 <!-- 16. Roadmap -->
 ## 🗺️ Developer Roadmap
@@ -346,27 +327,7 @@ graph TD
 
 ---
 
-<!-- 18. Blog Posts -->
-## ✍️ Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 [Understanding Event-Driven Systems with Kafka and Go](https://dev.to)
-- 📝 [Optimizing Microservices Communication via gRPC and Protocol Buffers](https://dev.to)
-- 📝 [My Journey building LinkedAudit: Auditing LinkedIn Profiles automations](https://dev.to)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- 19. Latest Activity -->
-## 📅 Latest GitHub Activity
-
-<!-- START_SECTION:activity -->
-- 🔧 Pushed new changes to `LinkedAudit` main branch
-- 🚀 Created `.github/workflows/generate-snake.yml` workflow in `KalaiScript`
-- 📦 Updated Go module dependencies in `Pyrynx`
-<!-- END_SECTION:activity -->
-
----
 
 <!-- 20. WakaTime -->
 ## ⏱️ Weekly Coding Activity
@@ -378,25 +339,6 @@ graph TD
   </a>
 </p>
 
----
-
-<!-- 21. Visitor Counter -->
-## 👥 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38BDF8&style=for-the-badge&label=VISITORS" alt="Visitor Counter" />
-</p>
-
----
-
-<!-- 22. Quote -->
-## 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
-</p>
-
----
 
 <!-- 23. Contact -->
 ## ✉️ Get in Touch
