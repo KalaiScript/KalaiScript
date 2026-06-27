@@ -224,27 +224,11 @@ $ cat developer_profile.json
 <!-- 6 & 7. GitHub Stats & Streak -->
 ## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="assets/stats_banner_with_counter.svg" width="100%" alt="KALAIYARASAN P's GitHub Stats & Streak" />
+</p>
+
 <table border="0" align="center" cellpadding="5" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=KalaiScript&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="KalaiScript GitHub Stats" height="195px" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Busy Work" height="195px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" alt="Get Motivated" height="195px" />
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalaiScript&theme=tokyonight&hide_border=false" alt="KalaiScript GitHub Streak" height="195px" />
-      </a>
-    </td>
-  </tr>
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -257,12 +241,10 @@ $ cat developer_profile.json
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" alt="Code Time" height="195px" />
+      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" alt="Get Motivated" height="195px" />
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KalaiScript&theme=tokyonight&layout=compact&hide_border=false" alt="WakaTime Weekly Coding Stats" height="195px" />
-      </a>
+      <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" alt="Code Time" height="195px" />
     </td>
   </tr>
 </table>
