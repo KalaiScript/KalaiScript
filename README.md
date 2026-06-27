@@ -222,34 +222,7 @@ $ cat developer_profile.json
 </table>
 
 <!-- 6 & 7. GitHub Stats & Streak -->
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="assets/stats_banner_with_counter.svg" width="100%" alt="KALAIYARASAN P's GitHub Stats & Streak" />
-</p>
-
-<table border="0" align="center" cellpadding="5" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalaiScript&layout=compact&theme=tokyonight&hide_border=false" alt="KalaiScript Top Languages" height="195px" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://private-user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI1NzI3ODEsIm5iZiI6MTc4MjU3MjQ4MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDAtNGIzOGE4YzctZGQ4ZC00MTk5LTllZWMtY2I0YWMyMDQxNGQ2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjI3VDE1MDEyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlZjVjYTJiMWRlMzNjMDliNzA5ODgwMGIxZjY5M2FhZWMyNWM2MmU4ZGNmN2JjNGFiNDRkNjFlYjk4OGM3MTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.pJcE4mliYA-T7my4Ki3UEjc87wL4AMIfazGu3AjRyR0" alt="Learning status" height="195px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" alt="Get Motivated" height="195px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" alt="Code Time" height="195px" />
-    </td>
-  </tr>
-</table>
-
-<br/>
 <!-- 9. Contribution Graph -->
 ## 📈 Contribution Graph
 
