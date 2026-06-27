@@ -288,24 +288,6 @@ $ cat developer_profile.json
 
 ---
 
-
-<!-- 16. Roadmap -->
-## 🗺️ Developer Roadmap
-
-```mermaid
-graph TD
-    A[Full Stack Engineer] --> B(Master Go & Microservices)
-    A --> C(Advanced Kubernetes & Cloud DevOps)
-    B --> D(Event-Driven Architecture with Kafka)
-    C --> E(GitOps & CI/CD automation)
-    D --> F[Enterprise Cloud Architect]
-    E --> F
-
-    classDef default fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff;
-    classDef node fill:#1e293b,stroke:#f59e0b,stroke-width:2px,color:#fff;
-    class A,F node;
-```
-
 ---
 
 <!-- 17. Coding Profiles -->
@@ -342,10 +324,7 @@ graph TD
 
 ---
 
-<!-- 24. Footer (Capsule Render / Wave Banner) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=Keep%20Coding%20&theme=tokyonight" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
