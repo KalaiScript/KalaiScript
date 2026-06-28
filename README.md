@@ -222,6 +222,52 @@ $ cat developer_profile.json
 </table>
 
 <!-- 6 & 7. GitHub Stats & Streak -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider Line" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/KalaiScript">
+    <img src="https://github-readme-stats.vercel.app/api?username=KalaiScript&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="KalaiScript's GitHub Stats" height="195px" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/KalaiScript">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalaiScript&theme=tokyonight&hide_border=true" alt="KalaiScript's GitHub Streak" height="195px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KalaiScript">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalaiScript&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="KalaiScript's Top Languages" height="195px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KalaiScript">
+    <img src="https://github-profile-trophy.vercel.app/?username=KalaiScript&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="KalaiScript's Trophies" />
+  </a>
+</p>
+
+<table border="0" align="center" cellpadding="5" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Work" height="150px" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08d55404-7e9d-49c8-9056-8f41d2e18d22.gif" alt="Programmer Setup" height="150px" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" alt="Get Motivated" height="150px" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" alt="Coding Hours" height="150px" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <!-- 9. Contribution Graph -->
 ## 📈 Contribution Graph
