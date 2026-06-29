@@ -208,7 +208,7 @@ $ cat developer_profile.json
 
 <p align="center">
   <a href="https://github.com/KalaiScript">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=KalaiScript&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="KalaiScript's GitHub Stats" height="195px" />
+    <img src="assets/github-readme-stats.svg" alt="KalaiScript's GitHub Stats" height="195px" />
   </a>
   &nbsp;
   <a href="https://github.com/KalaiScript">
@@ -218,13 +218,13 @@ $ cat developer_profile.json
 
 <p align="center">
   <a href="https://github.com/KalaiScript">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=KalaiScript&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="KalaiScript's Top Languages" height="195px" />
+    <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" height="195px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KalaiScript">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=KalaiScript&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="KalaiScript's Trophies" />
+    <img src="assets/github-trophy.svg" alt="KalaiScript's Trophies" />
   </a>
 </p>
 
@@ -274,19 +274,19 @@ $ cat developer_profile.json
 
 <p align="center">
   <a href="https://github.com/KalaiScript/LinkedAudit">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=LinkedAudit&theme=tokyonight" alt="LinkedAudit" />
+    <img src="assets/github-pin-linkedaudit.svg" alt="LinkedAudit" />
   </a>
   <a href="https://github.com/KalaiScript/Pyrynx">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=Pyrynx&theme=tokyonight" alt="Pyrynx" />
+    <img src="assets/github-pin-pyrynx.svg" alt="Pyrynx" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KalaiScript/AI-CareerForge">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=AI-CareerForge&theme=tokyonight" alt="AI CareerForge" />
+    <img src="assets/github-pin-careerforge.svg" alt="AI CareerForge" />
   </a>
   <a href="https://github.com/KalaiScript/All-semester-CGPA-calculator">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=All-semester-CGPA-calculator&theme=tokyonight" alt="All-semester-CGPA-calculator" />
+    <img src="assets/github-pin-cgpa.svg" alt="All-semester-CGPA-calculator" />
   </a>
 </p>
 
@@ -346,13 +346,7 @@ $ cat developer_profile.json
   </a>
 </p>
 
----
 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=120&section=footer&text=Keep%20Coding%20&theme=tokyonight" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />

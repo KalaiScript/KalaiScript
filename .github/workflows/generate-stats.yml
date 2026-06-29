@@ -1,0 +1,83 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=KalaiScript&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
+          path: assets/github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=KalaiScript&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+          path: assets/github-readme-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Trophy Card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=KalaiScript&theme=tokyonight&no-frame=true&column=7&margin-w=10
+          path: assets/github-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - LinkedAudit
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=KalaiScript&repo=LinkedAudit&theme=tokyonight
+          path: assets/github-pin-linkedaudit.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - Pyrynx
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=KalaiScript&repo=Pyrynx&theme=tokyonight
+          path: assets/github-pin-pyrynx.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - AI-CareerForge
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=KalaiScript&repo=AI-CareerForge&theme=tokyonight
+          path: assets/github-pin-careerforge.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - All-semester-CGPA-calculator
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=KalaiScript&repo=All-semester-CGPA-calculator&theme=tokyonight
+          path: assets/github-pin-cgpa.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "chore: update static github stats cards" || echo "No changes to commit"
+          git push origin main
