@@ -208,7 +208,7 @@ $ cat developer_profile.json
 
 <p align="center">
   <a href="https://github.com/KalaiScript">
-    <img src="https://github-readme-stats.vercel.app/api?username=KalaiScript&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="KalaiScript's GitHub Stats" height="195px" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=KalaiScript&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="KalaiScript's GitHub Stats" height="195px" />
   </a>
   &nbsp;
   <a href="https://github.com/KalaiScript">
@@ -218,13 +218,13 @@ $ cat developer_profile.json
 
 <p align="center">
   <a href="https://github.com/KalaiScript">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalaiScript&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="KalaiScript's Top Languages" height="195px" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=KalaiScript&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="KalaiScript's Top Languages" height="195px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KalaiScript">
-    <img src="https://github-profile-trophy.vercel.app/?username=KalaiScript&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="KalaiScript's Trophies" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=KalaiScript&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="KalaiScript's Trophies" />
   </a>
 </p>
 
@@ -274,19 +274,19 @@ $ cat developer_profile.json
 
 <p align="center">
   <a href="https://github.com/KalaiScript/LinkedAudit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalaiScript&repo=LinkedAudit&theme=tokyonight" alt="LinkedAudit" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=LinkedAudit&theme=tokyonight" alt="LinkedAudit" />
   </a>
   <a href="https://github.com/KalaiScript/Pyrynx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalaiScript&repo=Pyrynx&theme=tokyonight" alt="Pyrynx" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=Pyrynx&theme=tokyonight" alt="Pyrynx" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KalaiScript/AI-CareerForge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalaiScript&repo=AI-CareerForge&theme=tokyonight" alt="AI CareerForge" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=AI-CareerForge&theme=tokyonight" alt="AI CareerForge" />
   </a>
   <a href="https://github.com/KalaiScript/All-semester-CGPA-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalaiScript&repo=All-semester-CGPA-calculator&theme=tokyonight" alt="All-semester-CGPA-calculator" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=KalaiScript&repo=All-semester-CGPA-calculator&theme=tokyonight" alt="All-semester-CGPA-calculator" />
   </a>
 </p>
 
@@ -318,7 +318,7 @@ $ cat developer_profile.json
 ## 🏆 Competitive Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/KalaiScript" target="_blank">
+  <a href="https://leetcode.com/kalai_script" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://hackerrank.com/KalaiScript" target="_blank">
