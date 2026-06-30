@@ -273,20 +273,42 @@ $ cat developer_profile.json
 <!-- 13. Achievements -->
 ## 🥇 Achievements
 
-*   🏆 **Top Contributor**: Actively building & maintaining microservices tooling.
-*   🦈 **Pull Shark**: Merged several complex PRs across distributed codebases.
-*   🎯 **Quickdraw**: Swift responder to issues and feedback cycles.
-*   ⚡ **Hackathon Finalist**: Completed the GraphRAG Inference Hackathon build.
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <ul>
+        <li>🏆 <b>Top Contributor</b>: Actively building & maintaining microservices tooling.</li>
+        <li>🦈 <b>Pull Shark</b>: Merged several complex PRs across distributed codebases.</li>
+        <li>🎯 <b>Quickdraw</b>: Swift responder to issues and feedback cycles.</li>
+        <li>⚡ <b>Hackathon Finalist</b>: Completed the GraphRAG Inference Hackathon build.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" alt="GitHub Star" width="60%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <!-- 14. Certifications -->
 ## 📜 Certifications
 
-- 🏷️ **Google Cloud Digital Leader** — Google Cloud
-- 🏷️ **AWS Certified Solutions Architect (Associate)** — Amazon Web Services
-- 🏷️ **HashiCorp Certified: Terraform Associate** — HashiCorp
-- 🏷️ **Advanced Go Programming Patterns** — Tech Academy
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <ul>
+        <li>🏷️ <b>Google Cloud Digital Leader</b> — Google Cloud</li>
+        <li>🏷️ <b>AWS Certified Solutions Architect (Associate)</b> — Amazon Web Services</li>
+        <li>🏷️ <b>HashiCorp Certified: Terraform Associate</b> — HashiCorp</li>
+        <li>🏷️ <b>Advanced Go Programming Patterns</b> — Tech Academy</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" alt="Deep Focus" width="70%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
