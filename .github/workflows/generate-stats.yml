@@ -35,13 +35,6 @@ jobs:
           path: assets/github-readme-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Trophy Card
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: username=KalaiScript&theme=tokyonight&no-frame=true&column=7&margin-w=10
-          path: assets/github-trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate Pin - LinkedAudit
         uses: stats-organization/github-readme-stats-action@v2
         with:

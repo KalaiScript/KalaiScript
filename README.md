@@ -30,10 +30,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/ascii-art.svg" alt="Hello, Nice to meet you" width="100%" />
-</p>
-
 ---
 
 <!-- 4. About Me -->
@@ -51,10 +47,21 @@ $ cat developer_profile.json
 }
 ```
 
-*   👋 Hello! I'm **Kalaiyarasan**, a passionate software engineer specializing in building robust, scalable applications.
-*   🔭 I'm currently working on open-source packages and developer productivity tools.
-*   ⚡ I believe in writing self-documenting, clean, and testable code.
-*   📫 How to reach me: **kalaiwebxd07@gmail.com** or via social links above.
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <ul>
+        <li>👋 Hello! I'm <b>Kalaiyarasan</b>, a passionate software engineer specializing in building robust, scalable applications.</li>
+        <li>🔭 I'm currently working on open-source packages and developer productivity tools.</li>
+        <li>⚡ I believe in writing self-documenting, clean, and testable code.</li>
+        <li>📫 How to reach me: <b>kalaiwebxd07@gmail.com</b> or via the social links above.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08d55404-7e9d-49c8-9056-8f41d2e18d22.gif" alt="Coding Cat" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -203,10 +210,6 @@ $ cat developer_profile.json
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider Line" />
-</p>
-
-<p align="center">
   <a href="https://github.com/KalaiScript">
     <img src="assets/github-readme-stats.svg" alt="KalaiScript's GitHub Stats" height="195px" />
   </a>
@@ -221,31 +224,6 @@ $ cat developer_profile.json
     <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" height="195px" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/KalaiScript">
-    <img src="assets/github-trophy.svg" alt="KalaiScript's Trophies" />
-  </a>
-</p>
-
-<table border="0" align="center" cellpadding="5" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Work" height="150px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08d55404-7e9d-49c8-9056-8f41d2e18d22.gif" alt="Programmer Setup" height="150px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" alt="Get Motivated" height="150px" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" alt="Coding Hours" height="150px" />
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <!-- 9. Contribution Graph -->
 ## 📈 Contribution Graph
@@ -348,6 +326,8 @@ $ cat developer_profile.json
 
 
 
+<br/>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+  <sub>Designed with ❤️ by <a href="https://github.com/KalaiScript">KalaiScript</a></sub>
 </p>
