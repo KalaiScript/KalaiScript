@@ -290,39 +290,59 @@ $ cat developer_profile.json
 
 ---
 
----
-
 <!-- 17. Coding Profiles -->
 ## 🏆 Competitive Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/kalai_script" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://hackerrank.com/KalaiScript" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://geeksforgeeks.org/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="middle" style="border: none;">
+      <p>Solving complex algorithmic challenges and optimizing data structures across platforms:</p>
+      <br/>
+      <p align="left">
+        <a href="https://leetcode.com/kalai_script" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://hackerrank.com/KalaiScript" target="_blank">
+          <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://geeksforgeeks.org/" target="_blank">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Pro Coder" width="65%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 
 <!-- 23. Contact -->
 ## ✉️ Get in Touch
 
-<p align="center">
-  <b>Want to collaborate or just say hello? Let's connect!</b>
-</p>
-
-<p align="center">
-  <a href="mailto:kalaiwebxd07@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-Gmail-d14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/kalaiyarasan" target="_blank">
-    <img src="https://img.shields.io/badge/Chat-LinkedIn-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave" width="50%" />
+    </td>
+    <td width="65%" valign="middle" style="border: none;">
+      <h3>Let's Connect & Collaborate!</h3>
+      <p>Whether you want to discuss a project, need a developer, or just want to say hello, feel free to reach out:</p>
+      <br/>
+      <p align="left">
+        <a href="mailto:kalaiwebxd07@gmail.com">
+          <img src="https://img.shields.io/badge/Email%20Me-Gmail-d14836?style=for-the-badge&logo=gmail" alt="Email" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://linkedin.com/in/kalaiyarasan" target="_blank">
+          <img src="https://img.shields.io/badge/Chat-LinkedIn-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
