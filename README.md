@@ -58,7 +58,7 @@ $ cat developer_profile.json
       </ul>
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08d55404-7e9d-49c8-9056-8f41d2e18d22.gif" alt="Coding Cat" width="100%" style="border-radius: 10px;" />
+      <img src="assets/developer-activity.svg" alt="Coding Activity" width="100%" />
     </td>
   </tr>
 </table>
@@ -284,7 +284,7 @@ $ cat developer_profile.json
       </ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" alt="GitHub Star" width="60%" />
+      <img src="assets/github-star.gif" alt="GitHub Star" width="60%" />
     </td>
   </tr>
 </table>
@@ -305,7 +305,7 @@ $ cat developer_profile.json
       </ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" alt="Deep Focus" width="70%" style="border-radius: 10px;" />
+      <img src="assets/deep-focus.gif" alt="Deep Focus" width="70%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -335,7 +335,7 @@ $ cat developer_profile.json
       </p>
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Pro Coder" width="65%" style="border-radius: 10px;" />
+      <img src="assets/pro-coder.gif" alt="Pro Coder" width="65%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -347,7 +347,7 @@ $ cat developer_profile.json
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Wave" width="50%" />
+      <img src="assets/welcome-wave.gif" alt="Wave" width="50%" />
     </td>
     <td width="65%" valign="middle" style="border: none;">
       <h3>Let's Connect & Collaborate!</h3>
