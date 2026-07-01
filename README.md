@@ -30,6 +30,11 @@
   </a>
 </p>
 
+<!-- Quote of the Day Card -->
+<p align="center">
+  <img src="assets/developer-quote.svg" alt="Daily Quote" width="600" />
+</p>
+
 ---
 
 <!-- 4. About Me -->
@@ -205,6 +210,45 @@ $ cat developer_profile.json
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Current Focus & Skills Progress -->
+## ⚡ Current Focus & Skills Progress
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="48%" valign="top" style="border: none;">
+      <h4>Backend & Microservices (Go / gRPC)</h4>
+      <svg width="100%" height="12">
+        <rect width="100%" height="12" rx="6" ry="6" fill="#24283b" />
+        <rect width="92%" height="12" rx="6" ry="6" fill="#38BDF8" />
+      </svg>
+      <br/><br/>
+      <h4>Cloud Native & DevOps (Kubernetes / Docker)</h4>
+      <svg width="100%" height="12">
+        <rect width="100%" height="12" rx="6" ry="6" fill="#24283b" />
+        <rect width="78%" height="12" rx="6" ry="6" fill="#9ece6a" />
+      </svg>
+    </td>
+    <td width="4%" style="border: none;"></td>
+    <td width="48%" valign="top" style="border: none;">
+      <h4>Event-Driven Systems (Kafka)</h4>
+      <svg width="100%" height="12">
+        <rect width="100%" height="12" rx="6" ry="6" fill="#24283b" />
+        <rect width="85%" height="12" rx="6" ry="6" fill="#bb9af7" />
+      </svg>
+      <br/><br/>
+      <h4>Systems Design & Architecture</h4>
+      <svg width="100%" height="12">
+        <rect width="100%" height="12" rx="6" ry="6" fill="#24283b" />
+        <rect width="80%" height="12" rx="6" ry="6" fill="#ff9e64" />
+      </svg>
+    </td>
+  </tr>
+</table>
+
+---
 
 <!-- 6 & 7. GitHub Stats & Streak -->
 ## 📊 GitHub Analytics
