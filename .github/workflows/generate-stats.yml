@@ -35,6 +35,13 @@ jobs:
           path: assets/github-readme-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Streak Stats Card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=KalaiScript&theme=tokyonight&hide_border=true
+          path: assets/github-readme-streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate Pin - LinkedAudit
         uses: stats-organization/github-readme-stats-action@v2
         with:

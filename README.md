@@ -259,7 +259,7 @@ $ cat developer_profile.json
   </a>
   &nbsp;
   <a href="https://github.com/KalaiScript">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalaiScript&theme=tokyonight&hide_border=true" alt="KalaiScript's GitHub Streak" height="195px" />
+    <img src="assets/github-readme-streak.svg" alt="KalaiScript's GitHub Streak" height="195px" />
   </a>
 </p>
 
