@@ -74,139 +74,139 @@ $ cat developer_profile.json
 ## 🛠️ Tech Stack
 
 ### Languages & Backend
-<table>
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       </a>
-      <br /><b>Go</b>
+      <br /><sub><b>Go</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br /><b>JavaScript</b>
+      <br /><sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br /><b>TypeScript</b>
+      <br /><sub><b>TypeScript</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br /><b>Python</b>
+      <br /><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://nodejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br /><b>Node.js</b>
+      <br /><sub><b>Node.js</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://grpc.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" width="40" height="40" alt="gRPC" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" width="48" height="48" alt="gRPC" />
       </a>
-      <br /><b>gRPC</b>
+      <br /><sub><b>gRPC</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://kafka.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
+        <img src="https://cdn.simpleicons.org/apachekafka/white" width="48" height="48" alt="Kafka" />
       </a>
-      <br /><b>Kafka</b>
+      <br /><sub><b>Kafka</b></sub>
     </td>
   </tr>
 </table>
 
 ### Databases & Cloud DevOps
-<table>
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br /><b>PostgreSQL</b>
+      <br /><sub><b>PostgreSQL</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br /><b>MySQL</b>
+      <br /><sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://redis.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
       </a>
-      <br /><b>Redis</b>
+      <br /><sub><b>Redis</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.docker.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br /><b>Docker</b>
+      <br /><sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br /><b>Kubernetes</b>
+      <br /><sub><b>Kubernetes</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.nginx.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="NGINX" />
       </a>
-      <br /><b>NGINX</b>
+      <br /><sub><b>NGINX</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.jenkins.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
       </a>
-      <br /><b>Jenkins</b>
+      <br /><sub><b>Jenkins</b></sub>
     </td>
   </tr>
 </table>
 
 ### Frontend & Design Tools
-<table>
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://react.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br /><b>React</b>
+      <br /><sub><b>React</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" alt="Next.js" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" alt="Next.js" />
       </a>
-      <br /><b>Next.js</b>
+      <br /><sub><b>Next.js</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
       </a>
-      <br /><b>Photoshop</b>
+      <br /><sub><b>Photoshop</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
       </a>
-      <br /><b>Illustrator</b>
+      <br /><sub><b>Illustrator</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://gulpjs.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40" alt="Gulp" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="48" height="48" alt="Gulp" />
       </a>
-      <br /><b>Gulp</b>
+      <br /><sub><b>Gulp</b></sub>
     </td>
-    <td align="center" width="100">
+    <td align="center" valign="top" style="border: none;">
       <a href="https://www.npmjs.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
       </a>
-      <br /><b>NPM</b>
+      <br /><sub><b>NPM</b></sub>
     </td>
   </tr>
 </table>
