@@ -253,21 +253,33 @@ $ cat developer_profile.json
 <!-- 6 & 7. GitHub Stats & Streak -->
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/KalaiScript">
-    <img src="assets/github-readme-stats.svg" alt="KalaiScript's GitHub Stats" height="195px" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/KalaiScript">
-    <img src="assets/github-readme-streak.svg" alt="KalaiScript's GitHub Streak" height="195px" />
-  </a>
-</p>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="48%" align="center" valign="middle" style="border: none;">
+      <a href="https://github.com/KalaiScript">
+        <img src="assets/github-readme-stats.svg" alt="KalaiScript's GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td width="4%" style="border: none;"></td>
+    <td width="48%" align="center" valign="middle" style="border: none;">
+      <a href="https://github.com/KalaiScript">
+        <img src="assets/github-readme-streak.svg" alt="KalaiScript's GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/KalaiScript">
-    <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" height="195px" />
-  </a>
-</p>
+<br/>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" style="border: none;">
+      <a href="https://github.com/KalaiScript">
+        <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" width="60%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 9. Contribution Graph -->
 ## 📈 Contribution Graph
