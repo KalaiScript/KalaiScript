@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="100%" height="100%">
+  <style>
+    @keyframes screen-glow {
+      0%, 100% { filter: drop-shadow(0 0 4px rgba(34, 211, 238, 0.2)); }
+      50% { filter: drop-shadow(0 0 15px rgba(34, 211, 238, 0.6)); }
+    }
+    @keyframes line-type-1 {
+      0%, 100% { width: 0px; }
+      50% { width: 45px; }
+    }
+    @keyframes line-type-2 {
+      0%, 100% { width: 0px; }
+      50% { width: 35px; }
+    }
+    @keyframes line-type-3 {
+      0%, 100% { width: 0px; }
+      50% { width: 25px; }
+    }
+    @keyframes steam-rise {
+      0% { transform: translateY(0) scaleX(1); opacity: 0.2; }
+      50% { transform: translateY(-4px) scaleX(1.2); opacity: 0.8; }
+      100% { transform: translateY(-8px) scaleX(0.8); opacity: 0; }
+    }
+    @keyframes brain-pulse {
+      0%, 100% { transform: scale(1); opacity: 0.7; }
+      50% { transform: scale(1.05); opacity: 1; }
+    }
+    .screen {
+      animation: screen-glow 4s ease-in-out infinite;
+    }
+    .code-line-1 { animation: line-type-1 3s steps(10) infinite; }
+    .code-line-2 { animation: line-type-2 2.5s steps(8) infinite 0.5s; }
+    .code-line-3 { animation: line-type-3 3.5s steps(6) infinite 1s; }
+    .steam-path {
+      animation: steam-rise 2s ease-in-out infinite;
+      fill: none;
+      stroke: #a9b1d6;
+      stroke-width: 1;
+      stroke-linecap: round;
+    }
+    .steam-2 { animation-delay: 0.7s; }
+    .steam-3 { animation-delay: 1.4s; }
+    .brain-glow {
+      transform-origin: 75px 45px;
+      animation: brain-pulse 3s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Desk light halo -->
+  <circle cx="75" cy="75" r="70" fill="#16161e" stroke="rgba(122, 162, 247, 0.1)" stroke-width="2" />
+  
+  <!-- Desk Lamp Glow Radial -->
+  <path d="M75,10 L15,140 L135,140 Z" fill="rgba(34, 211, 238, 0.03)" />
+
+  <!-- Code Editor Window / Laptop Screen -->
+  <rect x="35" y="55" width="80" height="52" rx="4" fill="#1a1b26" stroke="#24283b" stroke-width="2" class="screen" />
+  
+  <!-- Editor Header -->
+  <rect x="35" y="55" width="80" height="8" rx="2" fill="#24283b" />
+  <circle cx="40" cy="59" r="1.5" fill="#f7768e" />
+  <circle cx="45" cy="59" r="1.5" fill="#e0af68" />
+  <circle cx="50" cy="59" r="1.5" fill="#9ece6a" />
+  
+  <!-- Code Lines -->
+  <!-- Line 1 -->
+  <rect x="42" y="70" width="45" height="2.5" rx="1" fill="#7aa2f7" class="code-line-1" />
+  <!-- Line 2 -->
+  <rect x="42" y="77" width="35" height="2.5" rx="1" fill="#bb9af7" class="code-line-2" />
+  <!-- Line 3 -->
+  <rect x="42" y="84" width="25" height="2.5" rx="1" fill="#9ece6a" class="code-line-3" />
+  <!-- Line 4 -->
+  <rect x="42" y="91" width="50" height="2.5" rx="1" fill="#e0af68" class="code-line-1" style="animation-delay: 0.3s;" />
+
+  <!-- Laptop Base -->
+  <path d="M25,107 L125,107 L130,113 L20,113 Z" fill="#24283b" />
+  <rect x="65" y="108" width="20" height="2" rx="1" fill="#16161e" />
+
+  <!-- Coffee Cup -->
+  <rect x="12" y="95" width="12" height="14" rx="2" fill="#ff9e64" />
+  <!-- Cup Handle -->
+  <path d="M12,98 C8,98 8,106 12,106" fill="none" stroke="#ff9e64" stroke-width="2" />
+  <!-- Steam -->
+  <g transform="translate(18, 92)">
+    <path d="M-2,0 Q-4,-4 -2,-8" class="steam-path" />
+    <path d="M0,0 Q2,-4 0,-8" class="steam-path steam-2" />
+    <path d="M2,0 Q-1,-4 2,-8" class="steam-path steam-3" />
+  </g>
+
+  <!-- Brain/Idea Glowing Lamp above workspace -->
+  <g class="brain-glow">
+    <!-- Bulb Base -->
+    <rect x="71" y="25" width="8" height="4" rx="1" fill="#ff9e64" />
+    <!-- Glowing Core -->
+    <circle cx="75" cy="18" r="10" fill="none" stroke="#22d3ee" stroke-width="2" style="filter: drop-shadow(0 0 5px #22d3ee)" />
+    <!-- Filament -->
+    <path d="M72,18 L75,13 L78,18 Z" fill="none" stroke="#22d3ee" stroke-width="1.5" />
+  </g>
+</svg>
