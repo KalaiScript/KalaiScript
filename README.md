@@ -340,7 +340,7 @@ $ cat developer_profile.json
       </ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="assets/github-star.gif" alt="GitHub Star" width="60%" />
+      <img src="assets/github-star.svg" alt="GitHub Star" width="60%" />
     </td>
   </tr>
 </table>
@@ -361,7 +361,7 @@ $ cat developer_profile.json
       </ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="assets/deep-focus.gif" alt="Deep Focus" width="70%" style="border-radius: 10px;" />
+      <img src="assets/deep-focus.svg" alt="Deep Focus" width="70%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -391,7 +391,7 @@ $ cat developer_profile.json
       </p>
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="assets/pro-coder.gif" alt="Pro Coder" width="65%" style="border-radius: 10px;" />
+      <img src="assets/pro-coder.svg" alt="Pro Coder" width="65%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -403,7 +403,7 @@ $ cat developer_profile.json
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="assets/welcome-wave.gif" alt="Wave" width="50%" />
+      <img src="assets/welcome-wave.svg" alt="Wave" width="50%" />
     </td>
     <td width="65%" valign="middle" style="border: none;">
       <h3>Let's Connect & Collaborate!</h3>
