@@ -19,9 +19,9 @@
   
   <!-- Text content -->
   <g transform="translate(65, 0)">
-    <text x="0" y="55" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="15" font-style="italic">“Talk is cheap. Show me the code.”</text>
-    <text x="0" y="85" fill="#ff9e64" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="bold">
-      — Linus Torvalds
+    <text x="0" y="45" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="15" font-style="italic">“Software is a great combination between artistry and”</text><text x="0" y="68" fill="#a9b1d6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="15" font-style="italic">engineering.”</text>
+    <text x="0" y="95" fill="#ff9e64" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="bold">
+      — Bill Gates
     </text>
   </g>
 </svg>
