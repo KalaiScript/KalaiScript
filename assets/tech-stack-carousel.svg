@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%" height="100%">
+  <style>
+    @keyframes marquee {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-600px); }
+    }
+    .carousel-track {
+      animation: marquee 16s linear infinite;
+    }
+    .badge {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-size: 11px;
+      font-weight: bold;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#1a1b26" rx="6" stroke="rgba(187, 154, 247, 0.1)" stroke-width="1" />
+
+  <!-- Mask so carousel items don't overflow outside the rounded border -->
+  <clipPath id="carousel-clip">
+    <rect x="2" y="2" width="796" height="46" rx="4" />
+  </clipPath>
+
+  <!-- Sliding Track -->
+  <g clip-path="url(#carousel-clip)">
+    <g class="carousel-track" style="display: flex;">
+      <!-- Group 1 (Width of each group of badges is 600px) -->
+      <g transform="translate(0, 0)">
+        <!-- Go -->
+        <g transform="translate(10, 10)">
+          <rect width="60" height="30" rx="4" fill="#16161e" stroke="#22d3ee" stroke-width="1.5" />
+          <text x="30" y="19" fill="#22d3ee" class="badge" text-anchor="middle">GO</text>
+        </g>
+        <!-- Kubernetes -->
+        <g transform="translate(80, 10)">
+          <rect width="90" height="30" rx="4" fill="#16161e" stroke="#7aa2f7" stroke-width="1.5" />
+          <text x="45" y="19" fill="#7aa2f7" class="badge" text-anchor="middle">KUBERNETES</text>
+        </g>
+        <!-- Docker -->
+        <g transform="translate(180, 10)">
+          <rect width="70" height="30" rx="4" fill="#16161e" stroke="#7aa2f7" stroke-width="1.5" />
+          <text x="35" y="19" fill="#7aa2f7" class="badge" text-anchor="middle">DOCKER</text>
+        </g>
+        <!-- PostgreSQL -->
+        <g transform="translate(260, 10)">
+          <rect width="90" height="30" rx="4" fill="#16161e" stroke="#22d3ee" stroke-width="1.5" />
+          <text x="45" y="19" fill="#22d3ee" class="badge" text-anchor="middle">POSTGRESQL</text>
+        </g>
+        <!-- Redis -->
+        <g transform="translate(360, 10)">
+          <rect width="60" height="30" rx="4" fill="#16161e" stroke="#f7768e" stroke-width="1.5" />
+          <text x="30" y="19" fill="#f7768e" class="badge" text-anchor="middle">REDIS</text>
+        </g>
+        <!-- Kafka -->
+        <g transform="translate(430, 10)">
+          <rect width="70" height="30" rx="4" fill="#16161e" stroke="#a9b1d6" stroke-width="1.5" />
+          <text x="35" y="19" fill="#a9b1d6" class="badge" text-anchor="middle">KAFKA</text>
+        </g>
+        <!-- gRPC -->
+        <g transform="translate(510, 10)">
+          <rect width="80" height="30" rx="4" fill="#16161e" stroke="#9ece6a" stroke-width="1.5" />
+          <text x="40" y="19" fill="#9ece6a" class="badge" text-anchor="middle">GRPC / PB</text>
+        </g>
+      </g>
+
+      <!-- Group 2 (Exactly shifted by 600px for seamless loop) -->
+      <g transform="translate(600, 0)">
+        <!-- Go -->
+        <g transform="translate(10, 10)">
+          <rect width="60" height="30" rx="4" fill="#16161e" stroke="#22d3ee" stroke-width="1.5" />
+          <text x="30" y="19" fill="#22d3ee" class="badge" text-anchor="middle">GO</text>
+        </g>
+        <!-- Kubernetes -->
+        <g transform="translate(80, 10)">
+          <rect width="90" height="30" rx="4" fill="#16161e" stroke="#7aa2f7" stroke-width="1.5" />
+          <text x="45" y="19" fill="#7aa2f7" class="badge" text-anchor="middle">KUBERNETES</text>
+        </g>
+        <!-- Docker -->
+        <g transform="translate(180, 10)">
+          <rect width="70" height="30" rx="4" fill="#16161e" stroke="#7aa2f7" stroke-width="1.5" />
+          <text x="35" y="19" fill="#7aa2f7" class="badge" text-anchor="middle">DOCKER</text>
+        </g>
+        <!-- PostgreSQL -->
+        <g transform="translate(260, 10)">
+          <rect width="90" height="30" rx="4" fill="#16161e" stroke="#22d3ee" stroke-width="1.5" />
+          <text x="45" y="19" fill="#22d3ee" class="badge" text-anchor="middle">POSTGRESQL</text>
+        </g>
+        <!-- Redis -->
+        <g transform="translate(360, 10)">
+          <rect width="60" height="30" rx="4" fill="#16161e" stroke="#f7768e" stroke-width="1.5" />
+          <text x="30" y="19" fill="#f7768e" class="badge" text-anchor="middle">REDIS</text>
+        </g>
+        <!-- Kafka -->
+        <g transform="translate(430, 10)">
+          <rect width="70" height="30" rx="4" fill="#16161e" stroke="#a9b1d6" stroke-width="1.5" />
+          <text x="35" y="19" fill="#a9b1d6" class="badge" text-anchor="middle">KAFKA</text>
+        </g>
+        <!-- gRPC -->
+        <g transform="translate(510, 10)">
+          <rect width="80" height="30" rx="4" fill="#16161e" stroke="#9ece6a" stroke-width="1.5" />
+          <text x="40" y="19" fill="#9ece6a" class="badge" text-anchor="middle">GRPC / PB</text>
+        </g>
+      </g>
+
+      <!-- Group 3 (Extra buffer to cover remaining 800px width during scroll) -->
+      <g transform="translate(1200, 0)">
+        <!-- Go -->
+        <g transform="translate(10, 10)">
+          <rect width="60" height="30" rx="4" fill="#16161e" stroke="#22d3ee" stroke-width="1.5" />
+          <text x="30" y="19" fill="#22d3ee" class="badge" text-anchor="middle">GO</text>
+        </g>
+        <!-- Kubernetes -->
+        <g transform="translate(80, 10)">
+          <rect width="90" height="30" rx="4" fill="#16161e" stroke="#7aa2f7" stroke-width="1.5" />
+          <text x="45" y="19" fill="#7aa2f7" class="badge" text-anchor="middle">KUBERNETES</text>
+        </g>
+        <!-- Docker -->
+        <g transform="translate(180, 10)">
+          <rect width="70" height="30" rx="4" fill="#16161e" stroke="#7aa2f7" stroke-width="1.5" />
+          <text x="35" y="19" fill="#7aa2f7" class="badge" text-anchor="middle">DOCKER</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

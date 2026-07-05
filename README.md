@@ -7,7 +7,7 @@
 
 <!-- 1. Hero Banner -->
 <p align="center">
-  <img src="assets/hero-banner.png" alt="KalaiScript Hero Banner" width="100%" />
+  <img src="assets/hero-banner.svg" alt="KalaiScript Hero Banner" width="100%" />
 </p>
 
 <!-- 2. Typing Animation -->
@@ -72,6 +72,12 @@ $ cat developer_profile.json
 
 <!-- 5. Tech Stack -->
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="assets/tech-stack-carousel.svg" alt="Tech Stack Carousel" width="100%" />
+</p>
+
+<br/>
 
 ### Languages & Backend
 <table border="0" cellpadding="8" cellspacing="0">
@@ -247,6 +253,15 @@ $ cat developer_profile.json
     </td>
   </tr>
 </table>
+
+---
+
+<!-- DevOps Pipeline -->
+## 🔄 Automated DevOps CI/CD Pipeline
+
+<p align="center">
+  <img src="assets/devops-workflow.svg" alt="DevOps Workflow Pipeline" width="100%" />
+</p>
 
 ---
 
