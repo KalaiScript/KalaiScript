@@ -103,7 +103,7 @@
   </g>
 
   <!-- Profile Title -->
-  <text x="50%" y="85" text-anchor="middle" font-size="42" class="title-text" fill="url(#title-grad)">KALAISCRIPT</text>
+  <text x="50%" y="85" text-anchor="middle" font-size="42" class="title-text" fill="url(#title-grad)">Kalaiyarasan P</text>
 
   <!-- Subtitle Typing Line -->
   <g transform="translate(0, 115)">
