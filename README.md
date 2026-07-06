@@ -72,13 +72,6 @@ $ cat developer_profile.json
 
 <!-- 5. Tech Stack -->
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="assets/tech-stack-carousel.svg" alt="Tech Stack Carousel" width="100%" />
-</p>
-
-<br/>
-
 ### Languages & Backend
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
