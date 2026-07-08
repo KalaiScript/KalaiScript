@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Visitor Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 <!-- 1. Hero Banner -->
