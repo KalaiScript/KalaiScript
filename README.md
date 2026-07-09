@@ -1,11 +1,8 @@
 <!-- Premium GitHub Profile README.md for KalaiScript -->
 
 <p align="center">
-  <img src="assets/pulsing-radar.svg" alt="Live Radar" width="24" height="24" style="vertical-align: middle;" />
-  &nbsp;
-  <b style="vertical-align: middle;">Profile Views:</b>
-  &nbsp;
-  <img src="https://github-view-counter.vercel.app/api?username=KalaiScript&style=nobg&color=38BDF8&label=false" alt="Visitor Counter" style="vertical-align: middle;" />
+  <!-- Visitor Counter Badge -->
+  <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 <!-- 1. Hero Banner -->
