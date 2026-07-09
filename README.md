@@ -1,9 +1,11 @@
 <!-- Premium GitHub Profile README.md for KalaiScript -->
 
 <p align="center">
-  <img src="assets/pulsing-radar.svg" alt="Live Radar" width="26" height="26" style="vertical-align: middle;" />
+  <img src="assets/pulsing-radar.svg" alt="Live Radar" width="24" height="24" style="vertical-align: middle;" />
   &nbsp;
-  <img src="https://github-view-counter.vercel.app/api?username=KalaiScript&style=nobg&color=38BDF8&label=Profile%20Views&labelColor=ffffff&size=14" alt="Visitor Counter" style="vertical-align: middle;" />
+  <b style="vertical-align: middle;">Profile Views:</b>
+  &nbsp;
+  <img src="https://github-view-counter.vercel.app/api?username=KalaiScript&style=nobg&color=38BDF8&label=false" alt="Visitor Counter" style="vertical-align: middle;" />
 </p>
 
 <!-- 1. Hero Banner -->
