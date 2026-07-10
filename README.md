@@ -283,7 +283,7 @@ $ cat developer_profile.json
   <tr>
     <td align="center" valign="middle" style="border: none;">
       <a href="https://github.com/KalaiScript">
-        <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" width="60%" />
+        <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" width="48%" />
       </a>
     </td>
   </tr>
