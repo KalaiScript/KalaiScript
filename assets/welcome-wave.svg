@@ -1,65 +1,104 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="handGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9e64" />
+      <stop offset="100%" stop-color="#ff007c" />
+    </linearGradient>
+    <linearGradient id="sleeveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7aa2f7" />
+      <stop offset="100%" stop-color="#bb9af7" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
   <style>
     @keyframes wave {
       0%, 100% { transform: rotate(0deg); }
-      20% { transform: rotate(-12deg); }
-      40% { transform: rotate(10deg); }
-      60% { transform: rotate(-10deg); }
-      80% { transform: rotate(8deg); }
+      15% { transform: rotate(-15deg); }
+      30% { transform: rotate(12deg); }
+      45% { transform: rotate(-10deg); }
+      60% { transform: rotate(8deg); }
+      75% { transform: rotate(-4deg); }
     }
-    @keyframes ripple {
-      0% { transform: scale(0.8); opacity: 0.8; }
-      100% { transform: scale(1.6); opacity: 0; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px) scale(1); }
+      50% { transform: translateY(-6px) scale(1.1); }
     }
-    .hand {
-      transform-origin: 50px 75px;
-      animation: wave 2.2s ease-in-out infinite;
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.3; }
+      50% { transform: scale(1.15); opacity: 0.6; }
     }
-    .ripple-ring {
+    .hand-group {
+      transform-origin: 50px 85px;
+      animation: wave 2s ease-in-out infinite;
+    }
+    .glow-circle {
       transform-origin: 50px 50px;
-      animation: ripple 2s cubic-bezier(0.1, 0.8, 0.3, 1) infinite;
-      stroke: #7aa2f7;
-      stroke-width: 1.5;
+      animation: pulse 3s ease-in-out infinite;
     }
-    .ripple-ring-2 {
-      animation-delay: 1s;
-      stroke: #bb9af7;
+    .float-item-1 {
+      transform-origin: 25px 25px;
+      animation: float 2.5s ease-in-out infinite;
+    }
+    .float-item-2 {
+      transform-origin: 75px 35px;
+      animation: float 3s ease-in-out infinite 0.5s;
     }
   </style>
 
-  <!-- Radiating Rings -->
-  <circle cx="50" cy="50" r="22" fill="none" class="ripple-ring" />
-  <circle cx="50" cy="50" r="22" fill="none" class="ripple-ring ripple-ring-2" />
+  <!-- Background Pulsing Glow -->
+  <circle cx="50" cy="50" r="35" fill="url(#glowGrad)" class="glow-circle" />
+  
+  <!-- Outer Dashed Orbit -->
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#7aa2f7" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.4" />
 
-  <!-- Waving Hand SVG -->
-  <g class="hand">
-    <!-- Hand base/wrist -->
-    <path d="M42,75 L58,75 L56,90 L44,90 Z" fill="#24283b" stroke="#7aa2f7" stroke-width="2" stroke-linejoin="round" />
+  <!-- Floating Tech Elements -->
+  <!-- Left Side: Sparkle / Star -->
+  <path class="float-item-1" d="M25,18 L27,23 L32,25 L27,27 L25,32 L23,27 L18,25 L23,23 Z" fill="#7dcfff" />
+  
+  <!-- Right Side: Code brackets < /> -->
+  <g class="float-item-2">
+    <path d="M72,33 L67,36 L72,39" fill="none" stroke="#bb9af7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M78,33 L83,36 L78,39" fill="none" stroke="#bb9af7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="77" y1="31" x2="73" y2="41" stroke="#ff9e64" stroke-width="2" stroke-linecap="round" />
+  </g>
+
+  <!-- Hand Group -->
+  <g class="hand-group">
+    <!-- Sleeve / Cuff -->
+    <path d="M36,75 L64,75 C66,75 66,78 65,83 L63,94 C62,97 38,97 37,94 L35,83 C34,78 34,75 36,75 Z" fill="url(#sleeveGrad)" filter="drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.3))" />
+    <rect x="38" y="73" width="24" height="4" rx="2" fill="#1a1b26" opacity="0.2" />
+
+    <!-- Hand & Fingers Outline / Fill -->
+    <path d="M38,73 
+             C33,67 31,56 36,51 
+             C38,49 42,52 42,55
+             C41,47 41,32 45,30
+             C48,28 51,32 50,38
+             C51,31 54,26 57,28
+             C60,30 59,38 58,43
+             C60,34 64,31 66,33
+             C69,35 67,45 66,49
+             C68,40 72,38 74,41
+             C76,44 73,53 71,58
+             C69,63 66,73 50,73
+             C44,73 40,73 38,73 Z" 
+          fill="url(#handGrad)" 
+          stroke="#1a1b26" 
+          stroke-width="2" 
+          stroke-linejoin="round" 
+          stroke-linecap="round" />
+
+    <!-- Thumb Details -->
+    <path d="M37,59 C32,56 29,62 34,66 C37,68 39,66 38,59 Z" fill="#ff9e64" stroke="#1a1b26" stroke-width="1.5" />
     
-    <!-- Sleeve -->
-    <rect x="40" y="82" width="20" height="10" rx="2" fill="#7aa2f7" />
-
-    <!-- Palm and Fingers -->
-    <!-- We'll draw a welcoming yellow/orange hand -->
-    <path d="M42,75 
-             C35,70 34,60 38,55 
-             C40,52 44,55 45,58 
-             L45,40 
-             C45,36 49,36 49,40 
-             L49,34 
-             C49,30 53,30 53,34 
-             L53,36 
-             C53,32 57,32 57,36 
-             L57,42 
-             C57,38 61,38 61,42 
-             L61,60 
-             C61,68 58,75 42,75 Z" 
-          fill="#ff9e64" 
-          stroke="#16161e" 
-          stroke-width="1.5" 
-          stroke-linejoin="round" />
-          
-    <!-- Thumb details -->
-    <path d="M38,62 C34,60 32,65 37,68 Z" fill="#e0af68" />
+    <!-- Finger Separation Lines/Details for Premium Look -->
+    <path d="M46,45 L46,55" stroke="#1a1b26" stroke-width="1.5" stroke-linecap="round" opacity="0.3" />
+    <path d="M53,44 L53,58" stroke="#1a1b26" stroke-width="1.5" stroke-linecap="round" opacity="0.3" />
+    <path d="M60,46 L60,57" stroke="#1a1b26" stroke-width="1.5" stroke-linecap="round" opacity="0.3" />
   </g>
 </svg>
