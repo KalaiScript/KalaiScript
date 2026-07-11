@@ -35,6 +35,16 @@ jobs:
           path: assets/github-readme-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Adjust Languages Card Dimensions
+        run: |
+          python3 -c "
+          with open('assets/github-readme-langs.svg', 'r') as f:
+              content = f.read()
+          content = content.replace('width=\"300\"', 'width=\"495\"').replace('height=\"165\"', 'height=\"272\"')
+          with open('assets/github-readme-langs.svg', 'w') as f:
+              f.write(content)
+          "
+
       - name: Generate Streak Stats Card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
