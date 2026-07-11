@@ -265,13 +265,13 @@ $ cat developer_profile.json
   <tr>
     <td width="48%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/KalaiScript">
-        <img src="assets/github-readme-stats.svg" alt="KalaiScript's GitHub Stats" height="195" />
+        <img src="assets/github-readme-stats.svg" alt="KalaiScript's GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="4%" style="border: none;"></td>
     <td width="48%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/KalaiScript">
-        <img src="assets/github-readme-streak.svg" alt="KalaiScript's GitHub Streak" height="195" />
+        <img src="assets/github-readme-streak.svg" alt="KalaiScript's GitHub Streak" width="100%" />
       </a>
     </td>
   </tr>
@@ -283,7 +283,7 @@ $ cat developer_profile.json
   <tr>
     <td align="center" valign="middle" style="border: none;">
       <a href="https://github.com/KalaiScript">
-        <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" height="195" />
+        <img src="assets/github-readme-langs.svg" alt="KalaiScript's Top Languages" width="100%" />
       </a>
     </td>
   </tr>
