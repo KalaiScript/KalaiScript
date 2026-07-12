@@ -1,7 +1,6 @@
 <!-- Premium GitHub Profile README.md for KalaiScript -->
 
 <p align="center">
-  <!-- Visitor Counter Badge -->
   <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
@@ -72,6 +71,7 @@ $ cat developer_profile.json
 
 <!-- 5. Tech Stack -->
 ## 🛠️ Tech Stack
+
 ### Languages & Backend
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
@@ -296,8 +296,6 @@ $ cat developer_profile.json
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalaiScript&theme=tokyonight&hide_border=false" alt="KalaiScript Activity Graph" width="100%" />
 </p>
 
-
-
 <!-- 11. Contribution Snake -->
 ## 🐍 Contribution Snake
 
@@ -369,7 +367,7 @@ $ cat developer_profile.json
       </ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="assets/deep-focus.svg" alt="Deep Focus" width="70%" style="border-radius: 10px;" />
+      <img src="assets/deep-focus.svg" alt="Deep Focus" width="70%" />
     </td>
   </tr>
 </table>
@@ -399,11 +397,12 @@ $ cat developer_profile.json
       </p>
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="assets/pro-coder.svg" alt="Pro Coder" width="65%" style="border-radius: 10px;" />
+      <img src="assets/pro-coder.svg" alt="Pro Coder" width="65%" />
     </td>
   </tr>
 </table>
 
+---
 
 <!-- 23. Contact -->
 ## ✉️ Get in Touch
@@ -429,8 +428,6 @@ $ cat developer_profile.json
     </td>
   </tr>
 </table>
-
-
 
 <br/>
 
