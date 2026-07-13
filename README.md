@@ -29,10 +29,6 @@
   </a>
 </p>
 
-<!-- Quote of the Day Card -->
-<p align="center">
-  <img src="assets/developer-quote.svg" alt="Daily Quote" width="600" />
-</p>
 
 ---
 
