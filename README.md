@@ -147,7 +147,7 @@ $ cat developer_profile.json
       <a href="https://kubernetes.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br /><sub><b>Kubernetes</b></sub>
+      <br /><sub><b>Kubernetess</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://www.nginx.com/" target="_blank">
@@ -246,7 +246,7 @@ $ cat developer_profile.json
 ---
 
 <!-- DevOps Pipeline -->
-## 🔄 Automated DevOps CI/CD Pipeline
+## 🔄 Automated DevOps CI/CD Pipeline...
 
 <p align="center">
   <img src="assets/devops-workflow.svg" alt="DevOps Workflow Pipeline" width="100%" />
