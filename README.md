@@ -1,4 +1,4 @@
-<!-- Premium GitHub Profile README.md for KalaiScript -->
+<!-- Premium GitHub... Profile README.md for KalaiScript -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
