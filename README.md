@@ -220,7 +220,7 @@ $ cat developer_profile.json
         <rect width="92%" height="12" rx="6" ry="6" fill="#38BDF8" />
       </svg>
       <br/><br/>
-      <h4>Cloud Native & DevOps (Kubernetes / Docker)</h4>
+      <h4>Cloud Native & DevOps (Kubernetes/Docker)</h4>
       <svg width="100%" height="12">
         <rect width="100%" height="12" rx="6" ry="6" fill="#24283b" />
         <rect width="78%" height="12" rx="6" ry="6" fill="#9ece6a" />
