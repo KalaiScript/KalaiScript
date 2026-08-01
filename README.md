@@ -53,7 +53,7 @@ $ cat developer_profile.json
       <ul>
         <li>👋 Hello! I'm <b>Kalaiyarasan</b>, a passionate software engineer specializing in building robust, scalable applications.</li>
         <li>🔭 I'm currently working on open-source packages and developer productivity tools.</li>
-        <li>⚡ I believe in writing self-documenting, clean, and testable code......</li>
+        <li>⚡ I believe in writing self-documenting, clean, and testable code.</li>
         <li>📫 How to reach me: <b>kalaiwebxd07@gmail.com</b> or via the social links above.</li>
       </ul>
     </td>
