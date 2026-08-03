@@ -33,7 +33,7 @@
 ---
 
 <!-- 4. About Me -->
-## 🧑‍💻 About Me..
+## 🧑‍💻 About Me
 
 ```bash
 $ cat developer_profile.json
