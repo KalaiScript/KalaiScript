@@ -209,7 +209,7 @@ $ cat developer_profile.json
 ---
 
 <!-- Current Focus & Skills Progress -->
-## ⚡ Current Focus & Skills Progressss
+## ⚡ Current Focus & Skills Progresss
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
