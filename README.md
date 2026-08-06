@@ -171,7 +171,7 @@ $ cat developer_profile.json
       <a href="https://react.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br /><sub><b>React</b></sub>
+      <br /><sub><b>React..</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://nextjs.org/" target="_blank">
