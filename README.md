@@ -68,7 +68,7 @@ $ cat developer_profile.json
 <!-- 5. Tech Stack -->
 ## 🛠️ Tech Stack
 
-### Languages & Backend...
+### Languages & Backend..
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center" valign="top" style="border: none;">
