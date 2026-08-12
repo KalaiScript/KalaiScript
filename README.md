@@ -38,7 +38,7 @@
 ```bash
 $ cat developer_profile.json
 {
-  "name": "Kalaiyarasan",
+  "name": "Kalaiyarasan..",
   "alias": "KalaiScript",
   "role": "Full Stack Developer.",
   "passion": "Designing high-performance backend systems and automation workflows",
