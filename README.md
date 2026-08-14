@@ -254,7 +254,7 @@ $ cat developer_profile.json
 
 ---
 
-<!-- 6 & 7. GitHub Stats & Streak -->
+<!-- 6 & 7. GitHub Stats & Streak::: -->
 ## 📊 GitHub Analytics.....
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
