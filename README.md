@@ -116,7 +116,7 @@ $ cat developer_profile.json
   </tr>
 </table>
 
-### Databases & Cloud DevOpssss
+### Databases & Cloud DevOps
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center" valign="top" style="border: none;">
