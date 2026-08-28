@@ -43,7 +43,7 @@ $ cat developer_profile.json
   "role": "Full Stack Developer..",
   "passion": "Designing high-performance backend systems and automation workflows",
   "focus": ["Microservices (gRPC)", "Cloud Infrastructure (Kubernetes)", "Event-Driven Systems"],
-  "hobbies": ["Open Source Contributions", "Learning new tech stacks", "Mentoring"]
+  "hobbies": ["Open Source Contributions", "Learning new tech stacks", "Mentoring..."]
 }
 ```
 
