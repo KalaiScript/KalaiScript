@@ -41,7 +41,7 @@ $ cat developer_profile.json
   "name": "Kalaiyarasan",
   "alias": "KalaiScript",
   "role": "Full Stack Developer..",
-  "passion": "Designing high-performance backend systems and automation workflows",
+  "passion": "Designing high-performance backend systems and automation workflows"..,
   "focus": ["Microservices (gRPC)", "Cloud Infrastructure (Kubernetes)", "Event-Driven Systems"],
   "hobbies": ["Open Source Contributions", "Learning new tech stacks", "Mentoring"]...
 }
