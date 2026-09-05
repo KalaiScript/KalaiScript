@@ -93,7 +93,7 @@ $ cat developer_profile.json
       <a href="https://www.python.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br /><sub><b>Python</b></sub>
+      <br /><sub><b>Python,,</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://nodejs.org/" target="_blank">
