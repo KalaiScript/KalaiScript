@@ -87,7 +87,7 @@ $ cat developer_profile.json
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br /><sub><b>TypeScript...</b></sub>
+      <br /><sub><b>TypeScript</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://www.python.org/" target="_blank">
