@@ -123,7 +123,7 @@ $ cat developer_profile.json
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br /><sub><b>PostgreSQL.</b></sub>
+      <br /><sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://www.mysql.com/" target="_blank">
