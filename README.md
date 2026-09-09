@@ -246,7 +246,7 @@ $ cat developer_profile.json
 ---
 
 <!-- DevOps Pipeline -->
-## 🔄 Automated DevOps CI/CD Pipeline...
+## 🔄 Automated DevOps CI/CD Pipeline.
 
 <p align="center">
   <img src="assets/devops-workflow.svg" alt="DevOps Workflow Pipeline" width="100%" />
