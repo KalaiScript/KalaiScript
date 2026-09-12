@@ -99,7 +99,7 @@ $ cat developer_profile.json
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br /><sub><b>Node.js</b></sub>
+      <br /><sub><b>Node.js..</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://grpc.io/" target="_blank">
