@@ -141,7 +141,7 @@ $ cat developer_profile.json
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br /><sub><b>Docker</b></sub>
+      <br /><sub><b>Docker,.,</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://kubernetes.io/" target="_blank">
