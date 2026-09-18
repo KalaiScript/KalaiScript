@@ -75,7 +75,7 @@ $ cat developer_profile.json
       <a href="https://go.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       </a>
-      <br /><sub><b>Go</b></sub>
+      <br /><sub><b>Goo</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
