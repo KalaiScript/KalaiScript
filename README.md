@@ -66,7 +66,7 @@ $ cat developer_profile.json
 ---
 
 <!-- 5. Tech Stack -->
-## 🛠️ Tech Stack..
+## 🛠️ Tech Stack
 
 ### Languages & Backend
 <table border="0" cellpadding="8" cellspacing="0">
