@@ -409,7 +409,7 @@ $ cat developer_profile.json
       <img src="assets/welcome-wave.svg" alt="Wave" width="50%" />
     </td>
     <td width="65%" valign="middle" style="border: none;">
-      <h3>Let's Connect & Collaborate!</h3>
+      <h3>Let's Connect & Collaborate!..</h3>
       <p>Whether you want to discuss a project, need a developer, or just want to say hello, feel free to reach out:</p>
       <br/>
       <p align="left">
