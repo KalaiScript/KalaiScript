@@ -164,7 +164,7 @@ $ cat developer_profile.json
   </tr>
 </table>
 
-### Frontend & Design Tools
+### Frontend & Design Tools...
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center" valign="top" style="border: none;">
