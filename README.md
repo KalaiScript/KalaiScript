@@ -189,7 +189,7 @@ $ cat developer_profile.json
       <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
       </a>
-      <br /><sub><b>Illustrator</b></sub>
+      <br /><sub><b>Illustrator..</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://gulpjs.com/" target="_blank">
