@@ -147,7 +147,7 @@ $ cat developer_profile.json
       <a href="https://kubernetes.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br /><sub><b>Kubernetess</b></sub>
+      <br /><sub><b>Kubernetes</b></sub>
     </td>
     <td align="center" valign="top" style="border: none;">
       <a href="https://www.nginx.com/" target="_blank">
