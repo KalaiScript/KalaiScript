@@ -111,7 +111,7 @@ $ cat developer_profile.json
       <a href="https://kafka.apache.org/" target="_blank">
         <img src="https://cdn.simpleicons.org/apachekafka/white" width="48" height="48" alt="Kafka" />
       </a>
-      <br /><sub><b>Kafka</b></sub>
+      <br /><sub><b>Kafka..</b></sub>
     </td>
   </tr>
 </table>
