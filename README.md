@@ -46,54 +46,6 @@
 <br />
 
 <!-- ========================================================================= -->
-<!-- 01. DEVELOPER TERMINAL HUD & BIO -->
-<!-- ========================================================================= -->
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="58%" valign="top">
-      <div align="left">
-        <h3>⚡ <code>kalaiscript@cloud-node:~$ whoami --verbose</code></h3>
-      </div>
-
-```yaml
-identity:
-  name: "Kalaiyarasan"
-  handle: "KalaiScript"
-  role: "Full Stack & Distributed Systems Engineer"
-  timezone: "UTC+5:30 (IST)"
-  status: "Architecting cloud-native services & developer toolchains"
-
-core_pillars:
-  - "Resilient Distributed Microservices (Go, gRPC, Protobuf)"
-  - "Event-Driven Processing & Streaming (Apache Kafka, Redis)"
-  - "Cloud-Native Infrastructure & Orchestration (Docker, Kubernetes)"
-  - "Modern Full-Stack Interfaces (TypeScript, Next.js, React)"
-
-philosophy: >
-  "Write software that communicates intent cleanly. 
-   Engineer architecture that stays resilient under immense load."
-```
-      <ul>
-        <li>🔭 <b>Currently Building:</b> Open-source developer utilities and high-performance microservices.</li>
-        <li>💡 <b>Tech Obsession:</b> Zero-downtime deployments, concurrency models, and low-latency APIs.</li>
-        <li>📫 <b>Inquiries:</b> Reach out via <a href="mailto:kalaiwebxd07@gmail.com"><b>kalaiwebxd07@gmail.com</b></a> for collaborations.</li>
-      </ul>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <!-- Animated Developer Cyberpunk Coding GIF -->
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" alt="Cyber Developer Station" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.2);" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-d64a-4427-9498-f326ec974457.gif" width="100%" height="2" alt="Divider" />
-</div>
-
-<!-- ========================================================================= -->
 <!-- 02. BENTO TECH ARSENAL -->
 <!-- ========================================================================= -->
 
