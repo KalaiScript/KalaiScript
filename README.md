@@ -347,10 +347,10 @@
 
 <table border="0" width="100%" cellpadding="8" cellspacing="0">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="assets/welcome-wave.svg" alt="Welcome Wave" width="70%" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Cyber Developer Workstation" width="100%" style="border-radius: 10px;" />
     </td>
-    <td width="70%" valign="middle">
+    <td width="62%" valign="middle">
       <h3>🤝 Let's Architect Something Extraordinary</h3>
       <p>
         I am always open to discussing distributed system architectures, high-performance backends, open-source initiatives, or engineering roles. Let's start a conversation!
