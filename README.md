@@ -55,11 +55,21 @@
   Carefully selected production technologies utilized across the software development lifecycle:
 </p>
 
-<!-- Dynamic Animated Skill Icons Matrix -->
+<!-- Primary Tech Stack Ribbon -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,python,nodejs,react,nextjs,postgres,mysql,redis,kafka,docker,kubernetes,nginx,aws,terraform,git,github,linux,bash&perline=10&theme=tokyonight" alt="Tech Stack Icons" />
-  </a>
+  <a href="https://go.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" /></a>&nbsp;&nbsp;
+  <a href="https://nginx.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
 </p>
 
 <table border="0" width="100%" cellpadding="6" cellspacing="0">
