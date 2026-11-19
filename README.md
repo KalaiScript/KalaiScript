@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE%20%7C%20BUILDING%20SYSTEMS-38BDF8?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/FOCUS-HIGH--THROUGHPUT%20MICROSERVICES-7aa2f7?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/CREATOR-TECH%20CONTENT%20%26%20BRANDING-ff79c6?style=for-the-badge&logo=sparkles&logoColor=white" alt="Content Creator & Branding" />
 </p>
 
 <!-- Animated Cyber Aesthetic Hero Header GIF -->
@@ -15,7 +16,7 @@
 <!-- Dynamic Typewriter Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hi%2C+I'm+Kalaiyarasan+(%40KalaiScript)+%F0%9F%91%8B;Full+Stack+Engineer+%26+Cloud+Systems+Architect+%E2%9A%A1;Golang+%7C+Distributed+Systems+%7C+Kubernetes+%7C+Kafka+%F0%9F%9A%80;Building+Scalable%2C+Fault-Tolerant+Cloud-Native+Applications+%F0%9F%9B%A0%EF%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Hi%2C+I'm+Kalaiyarasan+(%40KalaiScript)+%F0%9F%91%8B;Full+Stack+Engineer+%26+Cloud+Systems+Architect+%E2%9A%A1;Tech+Content+Creator+%26+Personal+Branding+Expert+%F0%9F%8E%A5;Golang+%7C+Distributed+Systems+%7C+Kubernetes+%7C+Kafka+%F0%9F%9A%80;Empowering+Developers+To+Build+Their+Digital+Brand+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -41,6 +42,44 @@
 <!-- Animated Glowing Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-d64a-4427-9498-f326ec974457.gif" width="100%" height="2" alt="Divider" />
 
+</div>
+
+<br />
+
+<!-- ========================================================================= -->
+<!-- 01. TECH CONTENT CREATION & PERSONAL BRANDING -->
+<!-- ========================================================================= -->
+
+## 🎙️ Tech Content Creation & Personal Branding
+
+<table border="0" width="100%" cellpadding="6" cellspacing="0">
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        Beyond engineering scalable distributed backends, I am an active <b>Tech Content Creator</b> and <b>Personal Branding Strategist</b>. I help software engineers, tech creators, and founders build high-converting digital footprints, scale their professional voice, and stand out on LinkedIn, GitHub, and across the developer ecosystem.
+      </p>
+      <ul>
+        <li>🚀 <b>Personal Brand Positioning:</b> Helping engineers craft distinctive developer personas, optimize profiles, and attract top-tier opportunities.</li>
+        <li>✍️ <b>Technical Content & Insights:</b> Breaking down complex distributed systems, Go concurrency, Cloud-Native DevOps, and clean architecture.</li>
+        <li>🛡️ <b>Creator of <a href="https://github.com/KalaiScript/LinkedAudit">LinkedAudit</a>:</b> Built an automated AI diagnostic tool that evaluates developer LinkedIn profiles and optimizes resume visibility.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <p><b>🤝 Open For:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Speaking-Tech%20%26%20Keynotes-38bdf8?style=flat-square" alt="Speaking" /><br/>
+        <img src="https://img.shields.io/badge/Consulting-Personal%20Branding-ff79c6?style=flat-square" alt="Consulting" /><br/>
+        <img src="https://img.shields.io/badge/Content-Collaborations-9ece6a?style=flat-square" alt="Collaborations" /><br/>
+        <img src="https://img.shields.io/badge/Mentorship-Developer%20Growth-bb9af7?style=flat-square" alt="Mentorship" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-d64a-4427-9498-f326ec974457.gif" width="100%" height="2" alt="Divider" />
 </div>
 
 <br />
@@ -351,9 +390,9 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand Emoji" width="85" />
     </td>
     <td width="75%" valign="middle">
-      <h3>🤝 Let's Architect Something Extraordinary</h3>
+      <h3>🤝 Let's Architect & Create Something Extraordinary</h3>
       <p>
-        I am always open to discussing distributed system architectures, high-performance backends, open-source initiatives, or engineering roles. Let's start a conversation!
+        I am always open to discussing <b>distributed system architectures</b>, collaborating on <b>tech content & personal branding strategies</b>, or exploring high-impact engineering initiatives. Let's start a conversation!
       </p>
       <p align="left">
         <a href="mailto:kalaiwebxd07@gmail.com">
