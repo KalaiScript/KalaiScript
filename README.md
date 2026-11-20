@@ -358,23 +358,12 @@
 </div>
 
 <!-- ========================================================================= -->
-<!-- 07. INSPIRATION & AUDIO WAVE -->
+<!-- 07. ENGINEERING PHILOSOPHY -->
 <!-- ========================================================================= -->
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="assets/quote-card.svg" alt="Engineering Philosophy Quote" width="95%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <div align="center">
-        <h4>🎧 Deep Focus Frequency</h4>
-        <p><i>"Flow state unlocked • Compiling ideas into production systems"</i></p>
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-d64a-4427-9498-f326ec974457.gif" width="80%" height="4" alt="Wave" />
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/quote-card.svg" alt="Engineering Philosophy Quote" width="600" />
+</p>
 
 <br />
 
