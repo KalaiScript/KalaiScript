@@ -364,9 +364,7 @@
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/marketplace">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="95%" />
-      </a>
+      <img src="assets/quote-card.svg" alt="Engineering Philosophy Quote" width="95%" />
     </td>
     <td width="50%" align="center" valign="middle">
       <div align="center">
