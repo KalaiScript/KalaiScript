@@ -373,10 +373,10 @@
 
 <table border="0" width="100%" cellpadding="8" cellspacing="0">
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand Emoji" width="85" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Developer Coding & Collaboration" width="100%" style="border-radius: 10px;" />
     </td>
-    <td width="75%" valign="middle">
+    <td width="65%" valign="middle">
       <h3>🤝 Let's Architect & Create Something Extraordinary</h3>
       <p>
         I am always open to discussing <b>distributed system architectures</b>, collaborating on <b>tech content & personal branding strategies</b>, or exploring high-impact engineering initiatives. Let's start a conversation!
