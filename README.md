@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KalaiScript&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE%20%7C%20BUILDING%20SYSTEMS-38BDF8?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/FOCUS-HIGH--THROUGHPUT%20MICROSERVICES-7aa2f7?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20AUTOMATION%20%26%20MICROSERVICES-7aa2f7?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Microservices" />
   <img src="https://img.shields.io/badge/CREATOR-TECH%20CONTENT%20%26%20BRANDING-ff79c6?style=for-the-badge&logo=sparkles&logoColor=white" alt="Content Creator & Branding" />
 </p>
 
@@ -16,7 +16,7 @@
 <!-- Dynamic Typewriter Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Hi%2C+I'm+Kalaiyarasan+(%40KalaiScript)+%F0%9F%91%8B;Full+Stack+Engineer+%26+Cloud+Systems+Architect+%E2%9A%A1;Tech+Content+Creator+%26+Personal+Branding+Expert+%F0%9F%8E%A5;Golang+%7C+Distributed+Systems+%7C+Kubernetes+%7C+Kafka+%F0%9F%9A%80;Empowering+Developers+To+Build+Their+Digital+Brand+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Hi%2C+I'm+Kalaiyarasan+(%40KalaiScript)+%F0%9F%91%8B;Full+Stack+Engineer+%26+Cloud+Systems+Architect+%E2%9A%A1;AI+Automation+%26+Agentic+Workflow+Architect+%F0%9F%A4%96;Tech+Content+Creator+%26+Personal+Branding+Expert+%F0%9F%8E%A5;Golang+%7C+Kubernetes+%7C+Kafka+%7C+GraphRAG+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -130,6 +130,15 @@
         <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
         <img src="https://img.shields.io/badge/Microservices-38BDF8?style=flat-square&logo=diagram-next&logoColor=white" alt="Microservices" />
       </p>
+      <h4>🤖 AI Automation & Agentic Engineering</h4>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/n8n%20Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-8A2BE2?style=flat-square&logo=robotframework&logoColor=white" alt="AI Agents" />
+        <img src="https://img.shields.io/badge/GraphRAG%20%26%20RAG-00CED1?style=flat-square&logo=knowledgebase&logoColor=white" alt="GraphRAG" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=flat-square&logo=sparkles&logoColor=white" alt="Prompt Engineering" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h4>☁️ Cloud, DevOps & Orchestration</h4>
@@ -149,6 +158,12 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+      </p>
+      <h4>⚡ Intelligent Pipeline Automation</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Webhook%20Pipelines-20B2AA?style=flat-square&logo=fastapi&logoColor=white" alt="Webhooks" />
+        <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Automation" />
+        <img src="https://img.shields.io/badge/Vector%20Databases-7B68EE?style=flat-square&logo=databricks&logoColor=white" alt="Vector DBs" />
       </p>
     </td>
   </tr>
