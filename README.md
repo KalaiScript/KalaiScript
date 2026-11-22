@@ -65,11 +65,12 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <p><b>🤝 Open For:</b></p>
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Tech Content Creator" style="border-radius: 10px;" />
+      <br/><br/>
       <p>
-        <img src="https://img.shields.io/badge/Speaking-Tech%20%26%20Keynotes-38bdf8?style=flat-square" alt="Speaking" /><br/>
+        <img src="https://img.shields.io/badge/Speaking-Tech%20%26%20Keynotes-38bdf8?style=flat-square" alt="Speaking" />
         <img src="https://img.shields.io/badge/Consulting-Personal%20Branding-ff79c6?style=flat-square" alt="Consulting" /><br/>
-        <img src="https://img.shields.io/badge/Content-Collaborations-9ece6a?style=flat-square" alt="Collaborations" /><br/>
+        <img src="https://img.shields.io/badge/Content-Collaborations-9ece6a?style=flat-square" alt="Collaborations" />
         <img src="https://img.shields.io/badge/Mentorship-Developer%20Growth-bb9af7?style=flat-square" alt="Mentorship" />
       </p>
     </td>
@@ -339,7 +340,7 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="assets/pro-coder.svg" alt="Pro Coder" width="80%" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" alt="Competitive Coding & Algorithms" width="95%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
