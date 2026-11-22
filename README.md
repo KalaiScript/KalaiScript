@@ -61,7 +61,7 @@
       <ul>
         <li>🚀 <b>Personal Brand Positioning:</b> Helping engineers craft distinctive developer personas, optimize profiles, and attract top-tier opportunities.</li>
         <li>✍️ <b>Technical Content & Insights:</b> Breaking down complex distributed systems, Go concurrency, Cloud-Native DevOps, and clean architecture.</li>
-        <li>🛡️ <b>Creator of <a href="https://github.com/KalaiScript/LinkedAudit">LinkedAudit</a>:</b> Built an automated AI diagnostic tool that evaluates developer LinkedIn profiles and optimizes resume visibility.</li>
+        <li>🛡️ <b>Creator of <a href="https://github.com/KalaiScript/LinkedAudit">LinkedAudit</a> (<a href="https://linkhive-linkedin.vercel.app/" target="_blank">Visit Live App</a>):</b> Built an automated AI diagnostic tool that evaluates developer LinkedIn profiles and optimizes resume visibility.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -209,7 +209,7 @@
         <img src="assets/github-pin-linkedaudit.svg" alt="LinkedAudit" width="100%" />
       </a>
       <p align="left">
-        <b>🛡️ LinkedAudit:</b> AI-assisted career profile audit system providing automated diagnostics, profile scoring, and resume optimization heuristics.
+        <b>🛡️ LinkedAudit:</b> AI-assisted career profile audit system providing automated diagnostics, profile scoring, and resume optimization heuristics. <a href="https://linkhive-linkedin.vercel.app/" target="_blank"><b>[Visit Live App ↗]</b></a>
       </p>
     </td>
     <td width="2%"></td>
