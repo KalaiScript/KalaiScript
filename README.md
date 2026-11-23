@@ -65,7 +65,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Tech Content Creator" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Tech Content Creator & Architect" style="border-radius: 10px;" />
       <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/Speaking-Tech%20%26%20Keynotes-38bdf8?style=flat-square" alt="Speaking" />
