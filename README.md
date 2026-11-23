@@ -313,9 +313,9 @@
 
 ## 🏆 Engineering Honors & Problem Solving
 
-<table border="0" width="100%" cellpadding="4" cellspacing="0">
+<table border="0" width="100%" cellpadding="6" cellspacing="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="middle">
       <h4>🎯 Problem Solving Platforms</h4>
       <p>Continuous algorithmic drill and optimization across competitive hubs:</p>
       <p>
@@ -340,7 +340,7 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" alt="Competitive Coding & Algorithms" width="95%" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Competitive Coding & Algorithms" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
