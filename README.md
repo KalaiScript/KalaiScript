@@ -16,7 +16,7 @@
 <!-- Dynamic Typewriter Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Hi%2C+I'm+Kalaiyarasan+(%40KalaiScript)+%F0%9F%91%8B;Full+Stack+Engineer+%26+Cloud+Systems+Architect+%E2%9A%A1;AI+Automation+%26+Agentic+Workflow+Architect+%F0%9F%A4%96;Tech+Content+Creator+%26+Personal+Branding+Expert+%F0%9F%8E%A5;Golang+%7C+Kubernetes+%7C+Kafka+%7C+GraphRAG+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Hi%2C+I'm+Kalaiyarasan+(%40KalaiScript)+%F0%9F%91%8B;Full+Stack+Engineer+%26+Cloud+Architect+%E2%9A%A1;AI+Automation+%26+Agentic+Workflow+Architect+%F0%9F%A4%96;Tech+Content+Creator+%26+Personal+Branding+Expert+%F0%9F%8E%A5;TypeScript+%7C+Python+%7C+React+%7C+Next.js+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -60,7 +60,7 @@
       </p>
       <ul>
         <li>🚀 <b>Personal Brand Positioning:</b> Helping engineers craft distinctive developer personas, optimize profiles, and attract top-tier opportunities.</li>
-        <li>✍️ <b>Technical Content & Insights:</b> Breaking down complex distributed systems, Go concurrency, Cloud-Native DevOps, and clean architecture.</li>
+        <li>✍️ <b>Technical Content & Insights:</b> Breaking down full-stack development, AI automation workflows, Cloud DevOps, and clean architecture.</li>
         <li>🛡️ <b>Creator of <a href="https://github.com/KalaiScript/LinkedAudit">LinkedAudit</a> (<a href="https://linkhive-linkedin.vercel.app/" target="_blank">Visit Live App</a>):</b> Built an automated AI diagnostic tool that evaluates developer LinkedIn profiles and optimizes resume visibility.</li>
       </ul>
     </td>
@@ -97,14 +97,13 @@
 
 <!-- Primary Tech Stack Ribbon -->
 <p align="center">
-  <a href="https://go.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" /></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a>&nbsp;&nbsp;
   <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /></a>&nbsp;&nbsp;
   <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" /></a>&nbsp;&nbsp;
   <a href="https://nginx.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX" /></a>&nbsp;&nbsp;
@@ -117,18 +116,17 @@
     <td width="50%" valign="top">
       <h4>💻 Languages & Runtime Core</h4>
       <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
       </p>
-      <h4>⚙️ Backend & Distributed Architecture</h4>
+      <h4>⚙️ Backend & Systems Architecture</h4>
       <p>
-        <img src="https://img.shields.io/badge/gRPC-244F5D?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
-        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
         <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Microservices-38BDF8?style=flat-square&logo=diagram-next&logoColor=white" alt="Microservices" />
       </p>
       <h4>🤖 AI Automation & Agentic Engineering</h4>
@@ -137,15 +135,14 @@
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
         <img src="https://img.shields.io/badge/n8n%20Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
         <img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-8A2BE2?style=flat-square&logo=robotframework&logoColor=white" alt="AI Agents" />
-        <img src="https://img.shields.io/badge/GraphRAG%20%26%20RAG-00CED1?style=flat-square&logo=knowledgebase&logoColor=white" alt="GraphRAG" />
+        <img src="https://img.shields.io/badge/RAG%20Pipelines-00CED1?style=flat-square&logo=knowledgebase&logoColor=white" alt="RAG" />
         <img src="https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=flat-square&logo=sparkles&logoColor=white" alt="Prompt Engineering" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ Cloud, DevOps & Orchestration</h4>
+      <h4>☁️ Cloud, DevOps & Infrastructure</h4>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -186,7 +183,7 @@
   <code>Git Commit / Push</code> ➔ 
   <code>Automated Tests & Lint</code> ➔ 
   <code>Docker Multi-Stage Build</code> ➔ 
-  <code>K8s Rolling Deployment</code> ➔ 
+  <code>Cloud Container Deployment</code> ➔ 
   <code>Telemetry & Health Probes</code>
 </div>
 
@@ -335,7 +332,7 @@
       <ul>
         <li>🦈 <b>Pull Shark:</b> Continuous code reviews and multi-service pull requests.</li>
         <li>🎯 <b>Quickdraw:</b> Swift response and fast-cycle issue triage.</li>
-        <li>⚡ <b>Hackathon Finalist:</b> Engineered end-to-end GraphRAG inference application.</li>
+        <li>⚡ <b>Hackathon Finalist:</b> Engineered end-to-end AI application and intelligent workflows.</li>
         <li>🌟 <b>Open-Source Builder:</b> Actively creating re-usable backend modules and dev tools.</li>
       </ul>
     </td>
@@ -357,7 +354,7 @@
           <li>🏷️ <b>AWS Certified Solutions Architect (Associate)</b> — Amazon Web Services</li>
           <li>🏷️ <b>Google Cloud Digital Leader</b> — Google Cloud Platform</li>
           <li>🏷️ <b>HashiCorp Certified: Terraform Associate</b> — HashiCorp</li>
-          <li>🏷️ <b>Advanced Go Programming Patterns</b> — Tech Academy</li>
+          <li>🏷️ <b>Full Stack Web Development & Architecture</b> — Meta</li>
         </ul>
       </td>
       <td width="40%" align="center" valign="middle">
