@@ -324,7 +324,7 @@
           <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
         </a>
         &nbsp;
-        <a href="https://geeksforgeeks.org/" target="_blank">
+        <a href="https://www.geeksforgeeks.org/profile/kalai1script" target="_blank">
           <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
         </a>
       </p>
