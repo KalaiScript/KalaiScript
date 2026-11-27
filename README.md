@@ -299,7 +299,7 @@
 </div>
 
 <!-- ========================================================================= -->
-<!-- 06. COMPETITIVE CODING, HONORS & CERTIFICATIONS -->
+<!-- 06. COMPETITIVE CODING & HONORS -->
 <!-- ========================================================================= -->
 
 ## 🏆 Engineering Honors & Problem Solving
@@ -336,28 +336,6 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<details>
-  <summary><b>📜 Click to view Verified Industry Certifications</b></summary>
-  <br />
-  <table border="0" width="100%" cellpadding="6" cellspacing="0">
-    <tr>
-      <td width="60%" valign="middle">
-        <ul>
-          <li>🏷️ <b>AWS Certified Solutions Architect (Associate)</b> — Amazon Web Services</li>
-          <li>🏷️ <b>Google Cloud Digital Leader</b> — Google Cloud Platform</li>
-          <li>🏷️ <b>HashiCorp Certified: Terraform Associate</b> — HashiCorp</li>
-          <li>🏷️ <b>Full Stack Web Development & Architecture</b> — Meta</li>
-        </ul>
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <img src="assets/deep-focus.svg" alt="Deep Focus Certifications" width="70%" />
-      </td>
-    </tr>
-  </table>
-</details>
 
 <br />
 
